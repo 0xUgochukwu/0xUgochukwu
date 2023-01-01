@@ -6,8 +6,7 @@ I'm a Software Engineer who is really passionate about Blockchain Technology and
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 💡 I am also a student at [Aptech Learning](https://www.aptechlearning.com/)
 - 🌱 I’m currently learning about Blockchain and it's technologies(Solidity, etc).
 - 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.

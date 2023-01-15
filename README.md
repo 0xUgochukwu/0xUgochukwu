@@ -6,7 +6,7 @@
 - 💡 I am also a student at [Aptech Learning](https://www.aptechlearning.com/)
 - 🌱 I’m currently learning Data Engineering: AI & ML.
 - 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer (Intern or Entry level).
 - 📫 You can contact me by emailing 0xUgochukwu@gmail.com.
 
 ---

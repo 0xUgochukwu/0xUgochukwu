@@ -2,12 +2,10 @@
 
 **Quick Summary**:
 
-- 💡 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 💡 I am also a student at [Aptech Learning](https://www.aptechlearning.com/)
-- 🌱 I’m currently learning Data Engineering: AI & ML.
-- 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer (Intern or Entry level).
-- 📫 You can contact me by emailing 0xUgochukwu@gmail.com.
+- I'm currently studying at [Aptech Learning](https://www.aptechlearning.com/)
+- I’m currently learning Data Engineering: AI & ML.
+- I’m looking to help with open source projects & hackathons.
+- You can contact me by emailing 0xUgochukwu@gmail.com.
 
 ---
 

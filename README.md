@@ -3,7 +3,7 @@
 **Quick Summary**:
 
 - I'm currently studying at [Aptech Learning](https://www.aptechlearning.com/)
-- I’m currently learning AI & ML Engineering.
+- I’m a Backend Developer
 - I’m looking to help with open source projects & hackathons.
 - You can contact me by emailing 0xUgochukwu@gmail.com.
 
